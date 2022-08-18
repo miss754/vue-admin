@@ -4,7 +4,6 @@ th,
 td,
 form,
 input,
-button,
 select,
 option,
 textarea,
@@ -30,14 +29,13 @@ hr {
   margin: 0;
 }
 
-input,
+/* input,
 button,
 textarea,
 select {
   outline: none;
   font: 100%/1.5 'microsoft YaHei', '\5b8b\4f53', sans-serif;
-}
-
+} */
 body {
   font: 14px/1.5 'microsoft YaHei', '\5b8b\4f53', sans-serif;
   color: #fff;
@@ -60,12 +58,11 @@ a:hover {
   color: #c81623;
 }
 
-button {
+/* button {
   border: 0;
   cursor: pointer;
   border-radius: 0;
-}
-
+} */
 table {
   border-collapse: collapse;
   border-spacing: 0;
